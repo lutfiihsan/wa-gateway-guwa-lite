@@ -1,9 +1,7 @@
-node_modules
-build
-coverage
-.vscode
-.DS_STORE
-.env
-tmp
-.wwebjs_auth
-baileys_auth_info
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
